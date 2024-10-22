@@ -1,6 +1,6 @@
 import shelve
 
-from Кликер import score
+from Clicker import score
 
 
 class Save:
